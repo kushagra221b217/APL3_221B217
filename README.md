@@ -1,3 +1,3 @@
 # APL3_221B217
 
-# This is my Git Page Program
+This is my APLab-3 Lab Exercises!
