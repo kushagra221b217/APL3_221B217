@@ -1,8 +1,8 @@
 # APL3_221B217
 
-This is my APLab-3 Lab Exercises!
+## This is my APLab-3 Lab Exercises!
 
-Commands for GitBash Push
+### Commands for GitBash Push
 
 ```cd - to change directory
 git status - to check the current status
